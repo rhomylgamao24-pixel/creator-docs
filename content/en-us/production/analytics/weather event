@@ -1,6 +1,8 @@
----
-title: Custom events
-description: Custom Events let you track and aggregate unique metrics to your experience.
+/e weather event[night],[snowy],[rain],[thunder]
+description: night event will give you an 24hours event cart
+snowy event gives you santa's cart for 24 hours 
+rain event gives you aquaman cart for 24 hours
+thunder event strucks you and give you 2x speed for 24 hours
 ---
 
 **Custom events** let you track metrics specific to your experience that other events do not fully capture. This includes:
